@@ -116,6 +116,14 @@ Install only the dependencies required for your specific tasks. Refer to the cod
 
 If you use this codebase in your research, please cite the corresponding paper or acknowledge the authors.
 
+**Wu, X., Wang, F., Dai, W. et al. Mucin phenotype-based deep learning framework for intestinal metaplasia-carcinogenesis progression prediction. npj Precis. Onc. (2025). https://doi.org/10.1038/s41698-025-01224-w**
+
+- Received: 30 July 2025
+- Accepted: 27 November 2025
+- Published: 12 December 2025
+- DOI: https://doi.org/10.1038/s41698-025-01224-w
+
 ## License
 
 This project is for academic research purposes only. For commercial use, please contact the authors.
+
